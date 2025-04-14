@@ -1,18 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+It uses Node 20.11, Next 15.3 and React 19.
 
-First, run the development server:
+I am developing this Temu clone, so we are at the beginning.
+
+I am using postgreSQl Database and Prisma ORM.
+
+First clone the repo, after run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+
+I use npm as a the package manager
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
