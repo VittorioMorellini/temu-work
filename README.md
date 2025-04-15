@@ -8,6 +8,7 @@ I am developing this Temu clone, so we are at the beginning.
 I am using postgreSQl Database and Prisma ORM.
 
 Neon PostgreSQL is on Vercel
+
 Stripe for payment methods
 
 First clone the repo, after run the development server:
