@@ -8,7 +8,7 @@ I am developing this Temu clone, so we are at the beginning.
 I am using postgreSQl Database and Prisma ORM.
 
 Neon PostgreSQL is on Vercel
-Stripe for paymenet methods
+Stripe for payment methods
 
 First clone the repo, after run the development server:
 
@@ -16,7 +16,7 @@ First clone the repo, after run the development server:
 npm run dev
 ```
 
-I use npm as a the package manager
+I use npm as package manager
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
