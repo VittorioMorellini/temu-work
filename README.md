@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Getting Started
 It uses Node 20.11, Next 15.3 and React 19.
 
 I am developing this Temu clone, so we are at the beginning.
@@ -8,6 +8,7 @@ I am developing this Temu clone, so we are at the beginning.
 I am using postgreSQl Database and Prisma ORM.
 
 Neon PostgreSQL is on Vercel
+Stripe for paymenet methods
 
 First clone the repo, after run the development server:
 
