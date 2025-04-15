@@ -11,6 +11,8 @@ Neon PostgreSQL is on Vercel
 
 Stripe for payment methods
 
+Lucia for Authentication
+
 First clone the repo, after run the development server:
 
 ```bash
